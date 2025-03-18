@@ -10,3 +10,6 @@ Arquivos do curso gratuito TailwindCSS
 `npx tailwindcss -o tailwind.css --watch` usado para para iniciar um processo de observação e reconstruir automaticamente seu CSS sempre que fizer alterações
 
 `node` inicia o Node.js no seu prompt de comando
+
+
+
