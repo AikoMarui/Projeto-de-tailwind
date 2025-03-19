@@ -11,5 +11,7 @@ Arquivos do curso gratuito TailwindCSS
 
 `node` inicia o Node.js no seu prompt de comando
 
+`npx tailwindcss init` Isso criará um tailwind.config.jsarquivo mínimo na raiz do seu projeto
+
 
 
