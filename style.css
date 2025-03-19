@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+.laravue {
+    @apply bg-brand-100 font-bold;
+    }
+}
+
+@font-face {
+    font-family: 'VCR_OSD_MONO';
+    src: url('public/fonts/VCR_OSD_MONO_1.001.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Hatolie';
+    src: url('public/fonts/Hatolie.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
